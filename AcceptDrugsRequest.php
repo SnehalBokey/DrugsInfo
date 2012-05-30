@@ -2,11 +2,7 @@
 	filename: AcceptDrugsRequest.php
 	author: Snehal
 	date-created: 23 feb 2012
-<<<<<<< HEAD
 	date-updated-last:5 March 2012
-=======
-	date-updated-last:5 March 2012 
->>>>>>> 48f8253... Commit.
 -->
 
 <html>
